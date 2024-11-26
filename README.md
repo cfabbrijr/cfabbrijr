@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @cfabbrijr
-- 👀 I’m interested in mobile programming, specially React Native and Expo.io
-- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on projects to leverage technology and health habits
 - 📫 How to reach me : email me at cfabbrijr@gmail.com
 
